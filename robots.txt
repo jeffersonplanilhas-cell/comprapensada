@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeffersonplanilhas-cell.github.io/comprapensada/sitemap.xml
